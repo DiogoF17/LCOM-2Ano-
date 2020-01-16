@@ -8,6 +8,6 @@ Nota lab4(Mouse):
 
 Nota lab5(Videos):
 
-Nota Exame:18.5
+Nota Teste: 18.5
 
 Nota Projeto(Jogo): 
